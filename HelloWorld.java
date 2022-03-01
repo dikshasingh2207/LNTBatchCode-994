@@ -8,5 +8,6 @@ public static void main(String [] args){
 int i=10;
 int a= 5;
 int b= 3;
+  System.out.println(a);
 }
 }
